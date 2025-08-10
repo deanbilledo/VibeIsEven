@@ -1,8 +1,6 @@
 # VibeIsEven
 
-> "Why use math when you have AI?"
-
-VibeIsEven is a satirical, production-quality Python package that determines if a number is even by asking a large language model (LLM) like OpenAI GPT or Gemini, instead of using arithmetic. It’s a parody of using AI for trivial tasks, but is fully functional and well-structured.
+VibeIsEven is a  production-quality Python package that determines if a number is even by asking a large language model (LLM) like OpenAI GPT or Gemini, instead of using arithmetic. It’s a parody of using AI for trivial tasks, but is fully functional and well-structured.
 
 ## Installation
 
