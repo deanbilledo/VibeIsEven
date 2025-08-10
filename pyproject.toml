@@ -7,7 +7,7 @@ name = "vibeiseven"
 version = "1.0.0"
 description = "AI-powered even number detection using GPT or Gemini"
 authors = [
-    { name = "Your Name", email = "your.email@example.com" }
+    { name = "Dean BIlledo", email = "deanreight@gmail.com" }
 ]
 license = { file = "LICENSE" }
 readme = "README.md"

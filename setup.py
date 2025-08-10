@@ -4,8 +4,8 @@ setup(
     name="vibeiseven",
     version="1.0.0",
     description="AI-powered even number detection using GPT or Gemini",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Dean Billedo",
+    author_email="deanreight@gmail.com",
     packages=find_packages(),
     install_requires=[
         "openai>=1.0.0",
